@@ -9,7 +9,7 @@ CS3090_Block2_Project
 CS3090_Block2_Project is a program that takes a user's password as a command argument in the terminal and returns a hexidecimal to show how the token would be stored in the database.
 
 ## Architecture
-This program uses an Python library called Hashlib that receives a message from the user, encodes it and returns a hexidecimal
+This program uses an Python library called Hashlib that receives a message from the user, encodes it and returns a hexadecimal
 
 
 ## Tech Stack:
